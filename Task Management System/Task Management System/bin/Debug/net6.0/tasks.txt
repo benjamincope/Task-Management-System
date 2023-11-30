@@ -1,0 +1,7 @@
+Change time settings|10|1/1/2000|True
+Celebrate 21st birthday|7|10/12/2022|True
+Put up christmas decorations|8|1/12/2023|False
+Get a haircut|5|30/11/2023|False
+Cook sushi|4|28/9/2023|True
+Time travel to the future/past|1|26/10/1985|False
+Retire|9|5/8/2067|False

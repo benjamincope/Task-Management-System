@@ -1,0 +1,14 @@
+C:\Users\benja\source\repos\Task Management System\Task Management System\bin\Debug\net6.0\Task Management System.exe
+C:\Users\benja\source\repos\Task Management System\Task Management System\bin\Debug\net6.0\Task Management System.deps.json
+C:\Users\benja\source\repos\Task Management System\Task Management System\bin\Debug\net6.0\Task Management System.runtimeconfig.json
+C:\Users\benja\source\repos\Task Management System\Task Management System\bin\Debug\net6.0\Task Management System.dll
+C:\Users\benja\source\repos\Task Management System\Task Management System\bin\Debug\net6.0\Task Management System.pdb
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.AssemblyInfoInputs.cache
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.AssemblyInfo.cs
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.dll
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\refint\Task Management System.dll
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.pdb
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\Task Management System.genruntimeconfig.cache
+C:\Users\benja\source\repos\Task Management System\Task Management System\obj\Debug\net6.0\ref\Task Management System.dll
